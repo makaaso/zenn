@@ -3,7 +3,7 @@ title: "「to skip startup.nsh or any other key to continue.」 の対応方法"
 emoji: "🐁" #icon
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [初心者,Zenn]
-published: false
+published: true
 ---
 VirtualBox7.1がリリースされて、ようやくApple SiliconのPCでもVirtualBoxが利用できるようになりました。
 早速 `Ubuntu Server 24.04` をインストールしてみると `UEFI Interactive Shell v2.2` 起動して以下のメッセージが表示されてインストールが開始されませんでした。
