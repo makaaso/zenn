@@ -1,8 +1,8 @@
 ---
 title: "「to skip startup.nsh or any other key to continue.」 の対応方法" #title
-emoji: "🐁" #icon
+emoji: "🦛" #icon
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [初心者,Zenn]
+topics: ["virtualbox", "apple silicon", "arm", "efi", "startup.nsh"]
 published: true
 ---
 VirtualBox7.1がリリースされて、ようやくApple SiliconのPCでもVirtualBoxが利用できるようになりました。
