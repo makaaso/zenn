@@ -25,4 +25,3 @@ Macのアプリをアンインストールする時はFinderからApplications�
 
 # 参考
 - [Macの不要なアプリをアンインストール（削除）する方法](https://www.maclab.tokyo/document/appcleaner/3832/)
-- [M1MacBookのUTMにUbuntuServerをインストールする際、つまづいた事柄](https://note.com/kaitokei/n/nf2b6e34de8b1)
