@@ -1,5 +1,5 @@
 ---
-title: "UFWの初期設定" #title
+title: "Ubuntu Server 24.04のUFW初期設定" #title
 emoji: "🦛" #icon
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ufw", "ubuntu"]
